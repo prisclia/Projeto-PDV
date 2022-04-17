@@ -23,7 +23,7 @@ namespace WindowsFormsApp1
 
         /// //////////////////////////////////////////////////////////////////
 
-        
+        // linha teste
 
         public static DataTable dql(string sql)// Data Query Lanquage(select) 
         {
